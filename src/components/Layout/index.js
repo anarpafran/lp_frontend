@@ -9,7 +9,6 @@ class AppLayout extends React.Component {
                 <Navbar.Brand href="/">Lending Front</Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link href="/">Home</Nav.Link>
-                    <Nav.Link href="/resume">Resume</Nav.Link>
                 </Nav>
             </Navbar>
             <main className='mt1'>
